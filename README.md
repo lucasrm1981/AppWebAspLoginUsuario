@@ -34,10 +34,13 @@ ATUALIZAÇÕES E CORREÇÕES DE BUGS:
 <center><h2>No Visual Studio 2022</h2></center>
 <h2>Acessando o Menu Server Explorer</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/server-explorer.jpg">
-<h2>Conectando no Banco</h2>
-<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConectarBancoDados.png">
+<h2>Ícone de Conexão</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConectarBancoDados-icone.png">
 <h2>Escolhendo a Conexão do Banco</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/conecxao-sql.jpeg">
+<h2>Conectando no Banco</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConectarBancoDados.png">
+
 <h2>Escolhendo o Banco de Dados</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/SelecaoServerDB.png">
 <h2>Propriedades do Banco de Dados</h2>
