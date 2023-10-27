@@ -10,7 +10,7 @@
 <h1># Login de Usuário com CRUD e Cookie Utilizando Page Master</h1>
 
 <br/>Sistema Gerenciador de Usuários Desenvolvido no Visual Studio 2022 com as Linguagens C#, ASP.NET, CSS e HTML com integraçao de Banco de Dados SQL Server Orientado a Objeto.
-<br/>Autenticação feita via senha criptografada com hash MD5 e cookies.
+<br/>Autenticação feita via senha e cookies.
 
 <br/> Tabela do SQL Server Database.sql 
 
