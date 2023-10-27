@@ -37,7 +37,7 @@ ATUALIZAÇÕES E CORREÇÕES DE BUGS:
 <h2>Conectando no Banco</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConectarBancoDados.png">
 <h2>Escolhendo a Conexão do Banco</h2>
-<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/conecxao-sql.jpg">
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/conecxao-sql.jpeg">
 <h2>Escolhendo o Banco de Dados</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/SelecaoServerDB.png">
 <h2>Propriedades do Banco de Dados</h2>
