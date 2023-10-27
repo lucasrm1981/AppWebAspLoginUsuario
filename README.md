@@ -19,11 +19,11 @@ ATUALIZAÇÕES E CORREÇÕES DE BUGS:
 
 <b>Versão beta1</b>
 <br/>1.Menu responsivo
-<br/>3.Adicionado menu item sair
-<br/>2.Página de Login
-<br/>3.Página de Logout
-<br/>4.Página cadastrar usuário
-<br/>5 Criação do cookie login
+<br/>2.Adicionado menu item sair
+<br/>3.Página de Login
+<br/>4.Página de Logout
+<br/>5.Página cadastrar usuário
+<br/>6.Criação do cookie login
 
 <h2>Conectando no SQL Server</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConexaoDB.png">
