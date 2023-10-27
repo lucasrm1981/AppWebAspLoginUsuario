@@ -7,7 +7,7 @@
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/sql-server.svg">
      <img align="center" height="40" width="40" src="https://lksistemas.com.br/img/icons/VisualStudio-Light.svg">
 </div>
-<h1># Gerenciador de Arquivos</h1>
+<h1># Login de Usuário com CRUD e Cookie Utilizando Page Master</h1>
 
 <br/>Sistema Gerenciador de Usuários Desenvolvido no Visual Studio 2022 com as Linguagens C#, ASP.NET, CSS e HTML com integraçao de Banco de Dados SQL Server Orientado a Objeto.
 <br/>Autenticação feita via senha criptografada com hash MD5 e cookies.
@@ -27,7 +27,7 @@ ATUALIZAÇÕES E CORREÇÕES DE BUGS:
 
 <h2>Conectando no SQL Server</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConexaoDB.png">
-<h2>Crindo a Base</h2>
+<h2>Criando a Base</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/CriacaoDB.png">
 <h2>Acessando o Menu Server Explorer</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/server-explorer.jpg">
