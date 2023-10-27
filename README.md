@@ -24,3 +24,18 @@ ATUALIZAÇÕES E CORREÇÕES DE BUGS:
 <br/>3.Página de Logout
 <br/>4.Página cadastrar usuário
 <br/>5 Criação do cookie login
+
+<h2>Conectando no SQL Server</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConexaoDB.png">
+<h2>Crindo a Base</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/CriacaoDB.png">
+<h2>Acessando o Menu Server Explorer</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/server-explorer.jpg">
+<h2>Conectando no Banco</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConectarBancoDados.png">
+<h2>Escolhendo o Banco de Dados</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/SelecaoServerDB.png">
+<h2>Propriedades do Banco de Dados</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/propriedades-db.png">
+<h2>Connections Strings do Banco de Dados</h2>
+<img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/connections-strings.png">
