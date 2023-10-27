@@ -24,12 +24,14 @@ ATUALIZAÇÕES E CORREÇÕES DE BUGS:
 <br/>4.Página de Logout
 <br/>5.Página cadastrar usuário
 <br/>6.Criação do cookie login
-<h2>No Microsoft SQL Server Management Studio 18</h2>
+
+<center><h2>No Microsoft SQL Server Management Studio 18</h2></center>
 <h2>Conectando no SQL Server</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/ConexaoDB.png">
 <h2>Criando a Base</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/CriacaoDB.png">
-<h2>No Visual Studio 2022</h2>
+
+<center><h2>No Visual Studio 2022</h2></center>
 <h2>Acessando o Menu Server Explorer</h2>
 <img src="https://github.com/lucasrm1981/AppWebAspLoginUsuario/blob/master/server-explorer.jpg">
 <h2>Conectando no Banco</h2>
